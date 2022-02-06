@@ -1,0 +1,1 @@
+/!\ L'affichage des SMS de l'appareil peut prendre du temps.

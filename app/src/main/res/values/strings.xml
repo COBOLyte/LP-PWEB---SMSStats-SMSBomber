@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SMS Bomber</string>
+    <string name="tab_text_1">SMS Stats</string>
+    <string name="tab_text_2">SMS Check</string>
+    <string name="tab_text_3">SMS Bomber</string>
+    <string name="enregistrer">Enregistrer</string>
+    <string name="nom">Nom</string>
+    <string name="texte">Texte</string>
+    <string name="quantite">Quantité</string>
+    <string name="SMS" />
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sms">SMS</string>
+    <string name="envoyer">Envoyer</string>
+    <string name="numero">Numéro</string>
+    <string name="affichage_des_sms_dans_une_fen_tre_popup_si_elles_ne_s_affichent_pas_veuillez_v_rifier_les_autorisations_ou_changer_d_onglet_et_revenir">Affichage des SMS dans une fenêtre Popup (si elles ne s\'affichent pas, veuillez vérifier les autorisations ou changer d\'onglet, puis revenir)</string>
+</resources>
